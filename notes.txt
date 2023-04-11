@@ -1,0 +1,6 @@
+
+1) Arrary methods - map, forEach, includes, slice, splice
+2) String methods - split, concat, substring, endswith, find, format, toUpperCase(), toLowerCase(), replace, join
+3) Async JS (promises, try catch, async/await, .then) 
+.then, try {} catch {}, async() and await()
+
