@@ -4,3 +4,20 @@
 3) Async JS (promises, try catch, async/await, .then) 
 .then, try {} catch {}, async() and await()
 
+
+
+Create React app:
+npx create-react-app .
+
+1) create a folder "reactJs"
+2) cd to the folder
+3) inside the folder give the command "npx create-react-app ."
+4) after the app is created, delete all the files in the src folder except App.js and index.js
+5) enter command "npm start" in the terminal to run the app in the browser 
+
+Important VS Code extentions: 
+
+1) Prettier 
+2) ES7 React/Redux/GraphQL/React-Native Snippets  
+3) Reactjs Code Snippets 
+4) Auto Import 
